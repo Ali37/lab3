@@ -2,6 +2,8 @@
 
 int main () {
 
-printf("Hello World!\n");
+printf("Fare Thee Well!\n");
+printf("Hello World\n");
+printf("Quicker Version!\n");
 return 0;
 }
